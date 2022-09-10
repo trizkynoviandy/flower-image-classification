@@ -10,12 +10,7 @@ The challenge is to build a machine learning model to classify images of "La Ete
 
 The data is split into a training and a submission set. The repo includes two labeled folders in the Test folder. The folder labeled "la_eterna" includes the pictures of la eterna that Eva captured. The other folder labeled "other_flowers" includes pictures of other flowers that are not la eterna. We will use this data to build our classifier. Each of the images has been formatted to the dimensions (224,224, 3) for the analysis.
 
-## Previous Videos of Mine that will be Helpful
-
-* [Introduction to Neural Networks in Python | Tensorflow/Keras](https://youtu.be/aBIGJeHRZLQ)
-* [Real-World Python Neural Nets Tutorial (Image Classification w/ CNN)](https://youtu.be/44U8jJxaNp8)
-
-## Other Helpful Resources
+## Helpful Resources
 
 * [Ken's Tutorial for this Challenge](https://youtu.be/KsEFs9uRk74)
 * [Step by Step Guide to Image Classification with New Datasets](https://www.analyticsvidhya.com/blog/2021/07/step-by-step-guide-for-image-classification-on-custom-datasets/)
