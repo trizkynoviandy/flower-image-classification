@@ -1,4 +1,4 @@
-# Flower Image Classification
+# La Eterna Image Classification
 
 ![La Eterna](datasets/Train/la_eterna/la_eterna_14.jpg?raw=True "La Eterna") ![Other Flower](datasets/Train/other_flowers/flower_451.jpg?raw=True "Other Flower") ![Other Flower #2](datasets/Train/other_flowers/flower_151.jpg?raw=True "Other Flower #2")
 
